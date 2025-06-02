@@ -4,9 +4,10 @@ A simple and interactive Dice Roller built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Screenshot
+![Screenshot 2025-06-02 203044](https://github.com/user-attachments/assets/5b76db12-c6ce-4701-a249-4dae2802a486)
 
-[🔗 View Live](https://your-username.github.io/dice-roller/) *(Replace with your GitHub Pages link)*
+
 
 ---
 
@@ -19,5 +20,4 @@ A simple and interactive Dice Roller built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📂 Project Structure
 
